@@ -14,7 +14,13 @@ The attendees should have some experience with deep learning and have used Pytor
 
 ## Agenda
 
-TODO
+| Time         | Topic                         | Host    |
+|--------------|-------------------------------|---------|
+| 1:30 - 2:15  | Introduction of GNN and DGL   | Minjie  |
+| 2:15 - 3:00  | DGL Sparse basics             | Steve   |
+| 3:00 - 3:30  | Coffee Break                  |         |
+| 3:30 - 4:15  | Build GCN with DGL Sparse     | Steve   |
+| 4:15 - 5:00  | Build TBD with DGL Sparse     | Quan    |
 
 ## Tutorials
 
