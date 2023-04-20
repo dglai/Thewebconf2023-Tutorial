@@ -1,6 +1,6 @@
 # When Sparse Meets Dense: Learning Advanced Graph Neural Networks with DGL-Sparse Package
 
-**Presenters**: Minjie Wang, Hongzhi Chen, Quan Gan, George Karypis and Zheng Zhang  
+**Presenters**: Minjie Wang, Hongzhi (Steve) Chen, Quan Gan, George Karypis and Zheng Zhang  
 **When**: 2023-05-01 (Mon) 1:30 PM – 5:00 PM  
 **Where**: AT&T Hotel and Conference Center - Classroom #101
 
