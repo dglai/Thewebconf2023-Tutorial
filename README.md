@@ -2,7 +2,8 @@
 
 **Presenters**: Minjie Wang, Hongzhi (Steve) Chen, Quan Gan, George Karypis and Zheng Zhang  
 **When**: 2023-05-01 (Mon) 1:30 PM – 5:00 PM  
-**Where**: AT&T Hotel and Conference Center - Classroom #101
+**Where**: AT&T Hotel and Conference Center - Classroom #101  
+**Slack Channel**: [#webconf23-tutorial](https://deep-graph-library.slack.com/archives/C054W9UMQFP)
 
 ## Abstract
 
