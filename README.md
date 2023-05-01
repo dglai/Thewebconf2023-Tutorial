@@ -32,5 +32,5 @@ The tutorial set cover the basic usage of DGL's sparse matrix class and operator
 - [Quickstart](https://docs.dgl.ai/notebooks/sparse/quickstart.html)
 - [Building a Graph Convolutional Network Using Sparse Matrices](https://docs.dgl.ai/notebooks/sparse/gcn.html)
 - [Graph Diffusion in Graph Neural Networks](https://docs.dgl.ai/notebooks/sparse/graph_diffusion.html)
-- [Hypergraph Neural Networks](https://docs.dgl.ai/notebooks/sparse/hgnn.html)
+- [Hypergraph Neural Networks](https://colab.research.google.com/github/dglai/Thewebconf2023-Tutorial/blob/main/Hypergraph%20neural%20networks.ipynb)
 - [Graph Transformer in a Nutshell](https://docs.dgl.ai/notebooks/sparse/graph_transformer.html)
