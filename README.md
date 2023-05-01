@@ -22,7 +22,8 @@ The attendees should have some experience with deep learning and have used Pytor
 | 1:30 - 2:15  | Introduction of GNN and DGL                         | Minjie  |
 | 2:15 - 3:15  | DGL Sparse basics & Graph Convolutional Network     | Steve   |
 | 3:15 - 3:45  | Coffee Break                                        |         |
-| 3:45 - 5:00  | Build Hypergraph Neural Networks with DGL Sparse    | Quan    |
+| 3:45 - 4:45  | Build Hypergraph Neural Networks with DGL Sparse    | Quan    |
+| 4:45 - 5:00  | Wrap up                                             | Steve   |
 
 ## Tutorials
 
