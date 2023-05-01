@@ -29,8 +29,6 @@ The attendees should have some experience with deep learning and have used Pytor
 
 The tutorial set cover the basic usage of DGL's sparse matrix class and operators. You can begin with "Quickstart" and "Building a Graph Convolutional Network Using Sparse Matrices". The rest of the tutorials demonstrate the usage by end-to-end examples. All the tutorials are written in Jupyter Notebook and can be played on Google Colab.
 
-- [Quickstart](https://docs.dgl.ai/notebooks/sparse/quickstart.html)
-- [Building a Graph Convolutional Network Using Sparse Matrices](https://docs.dgl.ai/notebooks/sparse/gcn.html)
-- [Graph Diffusion in Graph Neural Networks](https://docs.dgl.ai/notebooks/sparse/graph_diffusion.html)
+- [Quickstart](https://colab.research.google.com/github/dmlc/dgl/blob/master/notebooks/sparse/quickstart.ipynb)
+- [Building a Graph Convolutional Network Using Sparse Matrices](https://colab.research.google.com/github/dmlc/dgl/blob/master/notebooks/sparse/gcn.ipynb)
 - [Hypergraph Neural Networks](https://colab.research.google.com/github/dglai/Thewebconf2023-Tutorial/blob/main/Hypergraph%20neural%20networks.ipynb)
-- [Graph Transformer in a Nutshell](https://docs.dgl.ai/notebooks/sparse/graph_transformer.html)
