@@ -4,7 +4,8 @@
 **When**: 2023-05-01 (Mon) 1:30 PM – 5:00 PM  
 **Where**: AT&T Hotel and Conference Center - Classroom #101  
 **Slack Channel**: [#webconf23-tutorial](https://deep-graph-library.slack.com/archives/C054W9UMQFP)  
-**Provide Feedback**: [Survey](https://docs.google.com/forms/d/e/1FAIpQLSdTkFxJkQpE7TMQb6wYgviaAfC6Lf_pDsptaNzuFrP-AoR03w/viewform?usp=sf_link)
+**Provide Feedback**: [Survey](https://docs.google.com/forms/d/e/1FAIpQLSdTkFxJkQpE7TMQb6wYgviaAfC6Lf_pDsptaNzuFrP-AoR03w/viewform?usp=sf_link)  
+![](./qrcode.jpg)
 
 ## Abstract
 
