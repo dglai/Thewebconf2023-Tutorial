@@ -31,4 +31,5 @@ The tutorial set cover the basic usage of DGL's sparse matrix class and operator
 
 - [Quickstart](https://colab.research.google.com/github/dmlc/dgl/blob/master/notebooks/sparse/quickstart.ipynb)
 - [Building a Graph Convolutional Network Using Sparse Matrices](https://colab.research.google.com/github/dmlc/dgl/blob/master/notebooks/sparse/gcn.ipynb)
+  - [More Exercise](https://colab.research.google.com/github/dglai/Thewebconf2023-Tutorial/blob/master/sign_exercise.ipynb)
 - [Hypergraph Neural Networks](https://colab.research.google.com/github/dglai/Thewebconf2023-Tutorial/blob/main/Hypergraph%20neural%20networks.ipynb)
